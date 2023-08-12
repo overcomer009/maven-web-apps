@@ -107,7 +107,7 @@
 	</distributionManagement>
 	
 	<build>
-		<finalName>paypal</finalName>
+		<finalName>Maven-web-apps</finalName>
 		
 		<plugins>
 			<plugin>

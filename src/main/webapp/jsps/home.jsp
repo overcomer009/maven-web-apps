@@ -12,8 +12,9 @@
 <h1 align="center">Welcome to Overcomers Web application automation Project.</h1>
 <h1 align="center">We are developing and supporting quality Software Solutions to millions of clients globally.
 	           We are raising millionaires in IT automation.
-	We offer Training for DevOps with Linux and Cloud, equipping IT Engineers for best performance.</h1>
-<h1 align="center'>We will not give up because we are the overcomers, ordained and blessed by the most high God Jesus.</h1>
+	We offer Training for DevOps with Linux and Cloud, equipping IT Engineers for best performance.
+We will not give up because we are the overcomers, ordained and blessed by the most high God Jesus.</h1>
+<h1 align="center'></h1>
 <hr>
 <br>
 	<h1><h3> Server Side IP Address </h3><br>

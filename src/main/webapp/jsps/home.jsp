@@ -5,7 +5,7 @@
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
 <title>LandmarkTechnologies- Home Page</title>
-<link href="images/mylandmarklogo.png" rel="icon">
+<link href="images/overcomerslogo.png" rel="icon">
 </head>
 </head>
 <body>
@@ -38,20 +38,20 @@ out.println("Server Host Name :: "+inetAddress.getHostName());
 		<img src="images/mylandmarklogo.png" alt="" width="150">
 	</span>
 	<span style="font-weight: bold;">
-                Landmark Technology, 
+                Overcomers project, 
 		Toronto, Canada
 		+1 437 215 2483,
-		mylandmarktech@gmail.com
+		overcomers009@gmail.com
 		<br>
-		<a href="mailto:mylandmarktech@gmail.com">Mail to Landmark Technologies</a>
+		<a href="mailto:overcomers009@gmail.com">Mail to Overcomers project</a>
 	</span>
 </div>
 <hr>
 	<p> Service : <a href="services/employee/getEmployeeDetails">Get Employee Details </p>
 <hr>
 <hr>
-<p align=center> Landmark Technologies - Consultant, Training and Software Development</p>
-<p align=center><small>Copyrights 2021 by <a href="http://mylandmarktech.com/">Landmark Technologies</a> </small></p>
+<p align=center> Overcomers project - Consultant, Training and Software Development</p>
+<p align=center><small>Copyrights 2021 by <a href="http://Overcomers project.com/">Overcomers project</a> </small></p>
 
 </body>
 </html>

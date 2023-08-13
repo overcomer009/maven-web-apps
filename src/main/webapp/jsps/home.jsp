@@ -40,7 +40,7 @@ out.println("Server Host Name :: "+inetAddress.getHostName());
 	<span style="font-weight: bold;">
                 Overcomers, 
 		Toronto, Canada
-		+1 437 215 2483,
+		+1 437 215 XXX,
 		overcomers009@gmail.com
 		<br>
 		<a href="mailto:overcomers009@gmail.com">Mail to Overcomers project</a>

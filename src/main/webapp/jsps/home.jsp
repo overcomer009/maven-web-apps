@@ -4,7 +4,7 @@
 <html>
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-<title>LandmarkTechnologies- Home Page</title>
+<title>overcomers- Home Page</title>
 <link href="images/overcomerslogo.png" rel="icon">
 </head>
 </head>
@@ -38,7 +38,7 @@ out.println("Server Host Name :: "+inetAddress.getHostName());
 		<img src="images/mylandmarklogo.png" alt="" width="150">
 	</span>
 	<span style="font-weight: bold;">
-                Overcomers project, 
+                Overcomers, 
 		Toronto, Canada
 		+1 437 215 2483,
 		overcomers009@gmail.com
@@ -50,8 +50,8 @@ out.println("Server Host Name :: "+inetAddress.getHostName());
 	<p> Service : <a href="services/employee/getEmployeeDetails">Get Employee Details </p>
 <hr>
 <hr>
-<p align=center> Overcomers project - Consultant, Training and Software Development</p>
-<p align=center><small>Copyrights 2021 by <a href="http://Overcomers project.com/">Overcomers project</a> </small></p>
+<p align=center> Overcomers - Consultant, Training and Software Development</p>
+<p align=center><small>Copyrights 2021 by <a href="http://Overcomers.com/">Overcomers project</a> </small></p>
 
 </body>
 </html>
